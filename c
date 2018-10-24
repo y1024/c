@@ -1,4 +1,4 @@
 {
-	"万客商联":"NO"
+	"万客商联":"NO",
 	"echat.future.cn.echat":"NO"
 }
